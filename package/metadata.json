@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "buchten"
+      }
+    ],
+    "Category": "System Information",
+    "Description": "Shows remote apcupsd UPS status as a configurable battery gauge in a Plasma 6 panel.",
+    "Icon": "battery",
+    "Id": "local.remoteups.monitor",
+    "License": "GPL-3.0-or-later",
+    "Name": "Remote UPS Monitor",
+    "Version": "1.1.2"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
